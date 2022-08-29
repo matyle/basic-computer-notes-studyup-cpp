@@ -1,0 +1,7 @@
+write to stdout
+before fork;
+pid = 82672,glob=6,var=88
+write to stdout
+before fork;
+child pid = 82673,glob=7,var=89
+pid = 82673,glob=7,var=89

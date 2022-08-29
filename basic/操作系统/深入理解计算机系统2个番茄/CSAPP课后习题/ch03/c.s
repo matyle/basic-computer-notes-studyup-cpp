@@ -1,0 +1,1 @@
+xorl %edx,%edx

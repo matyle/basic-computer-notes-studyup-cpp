@@ -1,0 +1,12 @@
+Trying ::1...
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+HTTP/1.0 501 Not Implemented
+Content-type: text/html
+Content-length: 152
+
+<html><title>Tiny Error</title><body bgcolor=ffffff>
+501: Not Implemented
+<p>Tiny does not implement this method: 
+<hr><em>The Tiny Web server</em>

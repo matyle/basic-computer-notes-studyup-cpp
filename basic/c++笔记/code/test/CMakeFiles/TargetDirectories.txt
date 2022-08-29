@@ -1,0 +1,4 @@
+/Users/matytan/Desktop/code/基础/c++/test/CMakeFiles/rebuild_cache.dir
+/Users/matytan/Desktop/code/基础/c++/test/CMakeFiles/edit_cache.dir
+/Users/matytan/Desktop/code/基础/c++/test/CMakeFiles/test.dir
+/Users/matytan/Desktop/code/基础/c++/test/CMakeFiles/MyTests.dir
