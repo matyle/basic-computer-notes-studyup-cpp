@@ -1,0 +1,2 @@
+golang没有使用包管理（go mod）因此只能用GoPath
+下载到本地之后，代码最好是clone到GoPath下src目录下
